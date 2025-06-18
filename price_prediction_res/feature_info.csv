@@ -1,0 +1,4 @@
+feature_type,num_features,feature_names
+Price/Sentiment,4,"['polarity', 'subjectivity', 'Close', 'Volume']"
+Topics,10,"['Topic_0', 'Topic_1', 'Topic_2', 'Topic_3', 'Topic_4', 'Topic_5', 'Topic_6', 'Topic_7', 'Topic_8', 'Topic_9']"
+Macro Themes,6,"['Technology and Innovation', 'NFTs and Digital Collectibles', 'Security and Fraud', 'Governance and Organizations', 'Market and Financial Services', 'Legal and Regulatory Affairs']"

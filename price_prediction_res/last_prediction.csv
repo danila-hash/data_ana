@@ -1,0 +1,2 @@
+date,last_price,predicted_price_30d,predicted_price_90d,top_topics,topic_probabilities,top_themes,theme_weights,model_training_start,model_training_end
+2023-12-19 06:40:00,42793.0,39986.484375,47062.21395062838,"[0, 9, 8]","[0.4587391707384327, 0.0, 0.0]","['Market and Financial Services', 'Legal and Regulatory Affairs', 'Governance and Organizations']","[1.0, 0.0, 0.0]",2021-10-12 20:00:00,2023-12-19 06:40:00

@@ -1,0 +1,16 @@
+torch>=2.0.0
+transformers>=4.30.0
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.2.0
+matplotlib>=3.7.0
+bertopic>=0.15.0
+sentence-transformers>=2.2.0
+umap-learn>=0.5.3
+hdbscan>=0.8.29
+nltk>=3.8.1
+seaborn>=0.12.0
+statsmodels>=0.14.0
+scipy>=1.10.0
+tqdm>=4.65.0
+certifi>=2023.7.22

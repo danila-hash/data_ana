@@ -1,0 +1,141 @@
+Theme Classification Examples
+==========================
+
+Legal and Regulatory Affairs
+----------------------------
+Description: Legal proceedings, regulatory compliance, court cases, investigations, and enforcement actions in the cryptocurrency industry.
+Total texts in this category: 4804
+
+Example 1:
+Binance denied any equity ownership in the India-based crypto exchange after the latter came under regulatory scrutiny.
+
+Example 2:
+After a two-hour hearing regarding the potential issuance of a digital euro, expert testimony has done little to settle the continent’s legislative debate on central bank digital currencies (CBDCs).\r\n\r\nMembers of the European Parliament invited four expert witnesses to a hearing on Tuesday to...
+
+Example 3:
+A US Judge has deniedÂ\xa0Terraform Labs' motion to dismiss a securities fraud lawsuit filed against it by theÂ\xa0Securities and Exchange Commission (SEC).
+
+Example 4:
+Romania and Latvia are among the latest European countries to launch analytical work on updating their respective regulations for the crypto industry.
+
+Example 5:
+BTC staged a small relief rally, but securing $41,000 is the key to determining whether or not the current sell-off has ended.
+
+
+================================================================================
+
+Security and Fraud
+------------------
+Description: Security incidents, hacks, exploits, fraud cases, cybersecurity measures, and protective actions in blockchain systems.
+Total texts in this category: 1806
+
+Example 1:
+The security vulnerability allowed anyone with physical access to the hardware wallet to swipe its mnemonics.\r\n
+
+Example 2:
+The firm allegedly denied having any exposure to troubled sister lending firm Haru Invest before suspending transfers earlier this month.
+
+Example 3:
+Some initially interpreted the hack as an exploit of the Uniswap V3 protocol, but it was quickly clarified as the result of a phishing campaign.
+
+Example 4:
+In a remarkable development, the Euler Finance exploiter has returned a huge portion of the $200 million stolen funds to the protocol.
+
+Example 5:
+Two top Brazilian professional football (soccer) players claim they have fallen foul of a crypto scam \x93 and say that they were convinced to invest in a fraudulent project by a fellow pro.
+
+
+================================================================================
+
+NFTs and Digital Collectibles
+-----------------------------
+Description: Non-fungible tokens, digital art, collectibles, virtual assets, and the NFT marketplace ecosystem.
+Total texts in this category: 6100
+
+Example 1:
+Crypto is notorious for information overload. Making information about what's going on in the space more accessible to non-natives is going to be a key part of promoting crypto adoption.
+
+Example 2:
+According to Zambia’s tech minister, Felix Mutati, the country needs digital identities and other necessary digital infrastructures before it introduces crypto.
+
+Example 3:
+XRP price has printed a green candle alongside other selected cryptos like Bitcoin (BTC), which is up 1.1% and Ethereum (ETH), up 2% on the day. The international money transfer token's move above $0.30 could...
+
+Example 4:
+The government of Thailand is preparing a series of tax breaks and incentives for crypto companies that issue digital tokens.
+
+Example 5:
+By amalgamating the world of fashion with the Metaverse, brands and their clients stand to benefit a lot.
+
+
+================================================================================
+
+Technology and Innovation
+-------------------------
+Description: Technological developments, innovations, AI integration, blockchain protocols, and technical improvements.
+Total texts in this category: 8792
+
+Example 1:
+USDCÂ\xa0issuerÂ\xa0CircleÂ\xa0has frozen $63 million belonging to three wallet addresses associated with the hack of the cross-chain bridge platformÂ\xa0Multichain.
+
+Example 2:
+The new version features “hooks” that will allow for more customized options, but it will not be implemented until more feedback is obtained from the community.
+
+Example 3:
+Sam Altman co-founded tech firm WorldCoin is extending its reach by enabling governments and private businesses to leverage its controversial iris-scanning and identity-verification technology. Read on to learn more.
+
+Example 4:
+It may not happen, but a crash to $27,000 would be the chance for many investors to 'go all in' on BTC.
+
+Example 5:
+The Starknet Foundation has unveiled plans to distribute 1.8 billion STRK token rewards and rebates to drive the adoption and growth of the Starknet blockchain.
+
+
+================================================================================
+
+Governance and Organizations
+----------------------------
+Description: Decentralized governance, organizational structures, voting systems, and community-driven decision making.
+Total texts in this category: 911
+
+Example 1:
+Twitter’s co-founder is committing to another round of financial support for Bitcoin’s decentralized group of developers.\xa0
+
+Example 2:
+The International Organization of Securities Commissions shared its vision of stablecoin arrangements, decentralized finance and “finfluencers.“
+
+Example 3:
+Validators fear a governance attack on the Terra protocol, due to LUNA’s astonishingly cheap price.\xa0
+
+Example 4:
+The next owners of the Broncos could be a humble DAO organized by a group of professionals who may wind up paying the most ever for a North American sports team.
+
+Example 5:
+Ramaswamy stated, “Let’s make the 2024 election a referendum on fiat currency.”
+
+
+================================================================================
+
+Market and Financial Services
+-----------------------------
+Description: Market trends, trading activities, financial services, investment strategies, and economic aspects of cryptocurrency.
+Total texts in this category: 8624
+
+Example 1:
+Terra Luna Classic (LUNC)'s short-term technical picture is looking ugly. A break of this key support area could see the coin lose 60% of its value.
+
+Example 2:
+Meme coins continue to reign supreme in the market, with tokens like Dogecoin and Shiba Inu demonstrating the incredible power of retail traders. The latest to join this exciting market
+
+Example 3:
+Short-term holders expanding their BTC holdings indicates that heavy sell-offs have taken place.
+
+Example 4:
+Bitcoin’s layer 2 scaling solution, the Lightning Network, has seen payment volume increase by over 400% as real adoption grows.
+
+Example 5:
+The crypto fallout from Canada's \x9ctruckers' protest\x9d continues \x93 with a financial regulator reporting the heads of Kraken and Coinbase to the Royal Canadian Mounted Police over their Twitter activity.
+
+
+================================================================================
+
